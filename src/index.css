@@ -30,3 +30,8 @@ code {
 .scannedText {
   word-wrap: break-word;
 }
+
+
+.container {
+  display: flex;
+}
