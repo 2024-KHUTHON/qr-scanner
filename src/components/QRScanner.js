@@ -1,6 +1,7 @@
 import React from "react";
 import QrScanner from "qr-scanner";
 import { useEffect, useRef, useState } from "react";
+import "../index.css";
 
 const QRScanner = (props) => {
   const videoElementRef = useRef(null);
